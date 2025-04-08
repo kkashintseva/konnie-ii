@@ -5,7 +5,6 @@
   "directories": {
     "doc": "docs"
   },
-
   "dependencies": {
     "agent-base": "^7.1.0",
     "ansi-regex": "^6.0.1",
@@ -373,11 +372,13 @@
     "yoga-wasm-web": "^0.3.3",
     "zwitch": "^2.0.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "quartz": "^0.0.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-"start": "quartz start",  
-  "build": "quartz build"
+    "start": "quartz start",
+    "build": "quartz build"
   },
   "keywords": [],
   "author": "",
