@@ -1,5 +1,112 @@
 {
-    "rewrites": [
-      { "source": "/(.*)", "destination": "/index.html" }
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/birthday",
+      "destination": "/docs/birthday.html"
+    },
+    {
+      "source": "/index",
+      "destination": "/docs/index.html"
+    },
+    {
+      "source": "/miss-friends",
+      "destination": "/docs/miss-friends.html"
+    },
+    {
+      "source": "/anxious",
+      "destination": "/docs/anxious.html"
+    },
+    {
+      "source": "/birthday-og-image",
+      "destination": "/docs/birthday-og-image.webp"
+    },
+    {
+      "source": "/change",
+      "destination": "/docs/change.html"
+    },
+    {
+      "source": "/close",
+      "destination": "/docs/close.html"
+    },
+    {
+      "source": "/eat-cat",
+      "destination": "/docs/eat-cat.html"
+    },
+    {
+      "source": "/homesick",
+      "destination": "/docs/homesick.html"
+    },
+    {
+      "source": "/index-og-image",
+      "destination": "/docs/index-og-image.webp"
+    },
+    {
+      "source": "/klava",
+      "destination": "/docs/klava.html"
+    },
+    {
+      "source": "/laugh",
+      "destination": "/docs/laugh.html"
+    },
+    {
+      "source": "/lonely",
+      "destination": "/docs/lonely.html"
+    },
+    {
+      "source": "/miss-friends-og-image",
+      "destination": "/docs/miss-friends-og-image.webp"
+    },
+    {
+      "source": "/motivation",
+      "destination": "/docs/motivation.html"
+    },
+    {
+      "source": "/need-break",
+      "destination": "/docs/need-break.html"
+    },
+    {
+      "source": "/postscript",
+      "destination": "/docs/postscript.js"
+    },
+    {
+      "source": "/prescript",
+      "destination": "/docs/prescript.js"
+    },
+    {
+      "source": "/sad",
+      "destination": "/docs/sad.html"
+    },
+    {
+      "source": "/series",
+      "destination": "/docs/series.html"
+    },
+    {
+      "source": "/sleep",
+      "destination": "/docs/sleep.html"
+    },
+    {
+      "source": "/smile",
+      "destination": "/docs/smile.html"
+    },
+    {
+      "source": "/stressed",
+      "destination": "/docs/stressed.html"
+    },
+    {
+      "source": "/stuck",
+      "destination": "/docs/stuck.html"
+    },
+    {
+      "source": "/too-much",
+      "destination": "/docs/too-much.html"
+    },
+    {
+      "source": "/treat",
+      "destination": "/docs/treat.html"
+    },
+    {
+      "source": "/worthy",
+      "destination": "/docs/worthy.html"
+    }
+  ]
+}
